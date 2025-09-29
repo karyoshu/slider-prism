@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/himanshu/Projects/slider-prism",
-  "command": "/usr/bin/cc -DTARGET_EXTENSION=1 -DTARGET_SIMULATOR=1 -Dslider-prism_EXPORTS -I/opt/PlaydateSDK/C_API -fPIC -Wall -Wstrict-prototypes -Wno-unknown-pragmas -Wdouble-promotion -std=gnu11 -o CMakeFiles/slider-prism.dir/src/main.c.o -c /home/himanshu/Projects/slider-prism/src/main.c",
-  "file": "/home/himanshu/Projects/slider-prism/src/main.c"
+  "directory": "~/Projects/Playdate/prismatic-game",
+  "command": "/usr/bin/cc -DTARGET_EXTENSION=1 -DTARGET_SIMULATOR=1 -Dprismatic-game_EXPORTS -I/opt/PlaydateSDK/C_API -fPIC -Wall -Wstrict-prototypes -Wno-unknown-pragmas -Wdouble-promotion -std=gnu11 -o CMakeFiles/prismatic-game.dir/src/main.c.o -c ~/Projects/Playdate/prismatic-game/src/main.c",
+  "file": "~/Projects/Playdate/prismatic-game/src/main.c"
 }
 ]

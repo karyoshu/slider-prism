@@ -12,6 +12,6 @@ cmake-build-debug/
 .cache/
 
 # Build Packages
-slider-prism.pdx/
-slider-prism.pdx.zip
+prismatic-game.pdx/
+prismatic-game.pdx.zip
 
