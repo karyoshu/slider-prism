@@ -59,13 +59,13 @@ RM = /usr/bin/cmake -E rm -f
 # Escaping for special characters.
 EQUALS = =
 
-CMAKE_PROJECT_NAME = prismatic-game
+CMAKE_PROJECT_NAME = slider-prism
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = ~/Projects/Playdate/prismatic-game
+CMAKE_SOURCE_DIR = /home/himanshu/Projects/slider-prism
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = ~/Projects/Playdate/prismatic-game
+CMAKE_BINARY_DIR = /home/himanshu/Projects/slider-prism
 
 #=============================================================================
 # Targets provided globally by CMake.

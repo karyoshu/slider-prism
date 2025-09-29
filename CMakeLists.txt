@@ -25,9 +25,9 @@ set(CMAKE_CONFIGURATION_TYPES "Debug;Release")
 set(CMAKE_XCODE_GENERATE_SCHEME TRUE)
 
 # Game Name Customization
-set(PLAYDATE_GAME_NAME prismatic-game)
-set(PLAYDATE_GAME_DEVICE prismatic-game_DEVICE)
-set(PROJECT_DIR "~/Projects/Playdate/prismatic-game/")
+set(PLAYDATE_GAME_NAME slider-prism)
+set(PLAYDATE_GAME_DEVICE slider-prism_DEVICE)
+set(PROJECT_DIR "/home/himanshu/Projects/slider-prism/")
 
 project(${PLAYDATE_GAME_NAME} C ASM)
 

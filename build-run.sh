@@ -1,10 +1,10 @@
 #!/bin/bash
 bash ./build.sh
 rm -rf build/
-rm -rf prismatic-game.pdx/ prismatic-game.pdx.zip
+rm -rf slider-prism.pdx/ slider-prism.pdx.zip
 mkdir build
 cd build
 cmake ..
 make
-mv ../prismatic-game.pdx ./
-pdsim ./prismatic-game.pdx
+mv ../slider-prism.pdx ./
+pdsim ./slider-prism.pdx
